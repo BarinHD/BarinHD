@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BarinHD
 - 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning how to code with C#.
+- 🌱 I’m currently learning how to code with HTML, CSS, JS, Bootstrap.
 - 💞️ I’m looking to collaborate on anything that comes up.
 - 📫 How to reach me: with email- bobimetodiev159@gmail.com or Discord: Barin#4252
 
